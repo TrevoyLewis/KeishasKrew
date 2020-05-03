@@ -1,0 +1,40 @@
+body{
+    	background-color: rgb(255,255,255);
+    	font-family: 'Oswald', sans-serif;
+        font-size: 17px;
+        line-height: 2;
+
+}
+
+.navbar-expand-lg{
+    	padding: 0px;
+}
+
+.carousel-item img{
+    	padding-top: 100px;
+    	margin-left: auto;
+    	margin-right: auto;
+    	
+}
+
+#KC{
+    	display: block;
+    	margin-top: 100px;
+		margin-left: auto;
+		margin-right: auto;
+        border: 25px solid transparent;
+        border-image: url(orangeB.png) 50 round;
+}
+
+#About{
+    	text-align: left;
+    	padding-left: 75px;
+    	padding-right: 75px;
+}
+
+hr{
+    	width: 100%;
+}
+h2{
+    	text-align: center;
+}
