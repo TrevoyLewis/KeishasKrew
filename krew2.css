@@ -1,51 +1,35 @@
 h1{
-	margin-top: 100px;
-    margin-left: 75px;
+    margin-top: 100px;
     border-bottom: 5px solid rgb(255, 145,0);
     padding: 0;
     width: 11%;
 
 }
 
-/*hr{
-
-	border: 4px solid rgb(255, 145,0);
-	margin-top: 0;
-	margin-left: 75px;
-	width: 10%;
-}*/
-
 body{
 
-	background-color: rgb(255,255,255);
-	font-family: 'Oswald', sans-serif;
+     background-color: rgb(255,255,255);
+     font-family: 'Oswald', sans-serif;
 
 }
 
 .navbar-expand-lg{
-
     padding: 0px;
 }
 
 img{
-
     float: left;
-    margin-left: 75px; 
 }
 
 #button{
-
-   margin-left: 75px;
+	
    width: 200px;
 }
 
 .donationP{
-
-    text-align: left;
-	width: 87%;
-    margin-left: 75px;
+	
     line-height: 2;
-    font-size: 17px;
+    font-size: 18px;
 }
 
 
